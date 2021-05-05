@@ -1,0 +1,7 @@
+[user]
+  name = Arnaud Delante
+  email = contact@arnaud.ninja
+[core]
+  editor = vim
+[push]
+  default = current
